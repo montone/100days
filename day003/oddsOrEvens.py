@@ -9,4 +9,3 @@ if remainder == 0:
     print("The number " + str(number) + " is even!")
 else:
     print("The number " + str(number) + " is odd!")
-    # commit issue with pycharm

@@ -39,6 +39,7 @@ elif user_guess_num == 1:
     print("You chose paper: " + paper)
 else:
     print("You chose scissors: " + scissors)
+# add invalid number check
 
 # Program make a guess
 prog_guess_num = random.randint(0,2)
@@ -50,6 +51,7 @@ elif prog_guess_num == 1:
     print("The computer chose paper: " + paper)
 else:
     print("The computer chose scissors: " + scissors)
+# add invalid number check
 
 # Evaulate guesses
 

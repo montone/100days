@@ -9,6 +9,7 @@
 # Purpose: To test python environment and github integration.
 # Test: Github
 # Test: Remote
+# Test: Remote via httpd
 #
 ############################################################################
 

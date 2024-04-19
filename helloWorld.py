@@ -10,6 +10,7 @@
 # Test: Github
 # Test: Remote
 # Test: Remote via httpd
+# Test: Push to github via Visual Studio 04/19/2024
 #
 ############################################################################
 

@@ -6,7 +6,7 @@
 #
 # Date: XX/XX/XXXX
 #
-# Purpose: 
+# Purpose: Enter description here.
 #
 ############################################################################
 # Revisions:

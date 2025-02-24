@@ -11,7 +11,11 @@
 # Notes: Where the hell is art.log file?
 ############################################################################
 
+import art
+
 def calculator():
+
+    print(art.logo)
     def add(n1, n2):
         return n1 + n2
 
